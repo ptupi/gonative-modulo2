@@ -1,11 +1,11 @@
-1.	root = true
-2.	
-3.	[*]
-4.	
-5.	charset = utf-8
-6.	insert_final_newline = true
-7.	indent_style = space
-8.	indent_size = 2
-9.	end_of_line = lf
-10.	insert_final_newline = true
-11.	trim_trailing_whitespace = true
+root = true
+
+[*]
+
+charset = utf-8
+insert_final_newline = true
+indent_style = space
+indent_size = 2
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
